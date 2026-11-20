@@ -1,4 +1,4 @@
-# Customer Support Agent Live
+# Resolve Query AI
 
 AI Copilot for Support Agents using FastAPI, Streamlit, LangChain agents, Groq LLMs, ChromaDB RAG, Mem0-style customer memory, SQLite, Docker, and EC2 deployment workflows.
 
